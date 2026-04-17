@@ -17,6 +17,23 @@ This project is an interactive Power BI dashboard built to analyze sales perform
 * Product performance analysis
 * Interactive filters and slicers
 
+## 📄 Dashboard Pages
+
+The Power BI dashboard consists of the following pages:
+
+* 🔹 **Sales Dashboard** – Provides an overview of key metrics such as total sales, profit, and transactions with interactive visuals.
+
+* 🌍 **Map View** – Displays geographical distribution of sales, helping identify high-performing regions and locations.
+
+* 📦 **Product Details** – Analyzes product-level performance including sales, profit, and category-wise contribution.
+
+* 👥 **Customer Details** – Provides insights into customer behavior, segmentation, and contribution to overall revenue.
+
+* 🌳 **Returns Analysis (Decomposition Tree)** – Breaks down product returns across multiple dimensions to identify root causes.
+
+* 🎯 **Returns Analysis (Key Influencers)** – Identifies the key factors influencing product returns using advanced analytics.
+
+
 ## 📸 Dashboard Preview
 
 
