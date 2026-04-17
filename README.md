@@ -1,32 +1,41 @@
-📊 Maven Market Sales Dashboard
-📌 Overview
+# 📊 Maven Market Sales Dashboard
+
+## 📌 Overview
 
 This project is an interactive Power BI dashboard built to analyze sales performance, customer behavior, and product insights for Maven Market.
 
-🔧 Tools Used
+## 🔧 Tools Used
 
-Power BI
-DAX
-Data Visualization
-📊 Key Features
-Sales performance tracking (revenue, profit, transactions)
-Customer segmentation and insights
-Product performance analysis
-Interactive filters and slicers
+* Power BI
+* DAX
+* Data Visualization
 
-📸 Dashboard Preview
+## 📊 Key Features
 
-🔹 Sales Analysis
+* Sales performance tracking (revenue, profit, transactions)
+* Customer segmentation and insights
+* Product performance analysis
+* Interactive filters and slicers
+
+## 📸 Dashboard Preview
+
+
+
+### 🔹 Sales Analysis
+
 ![Sales](Dashboard_1.PNG)
-🔹 Customer Insights
+
+### 🔹 Customer Insights
+
 ![Customer](Dashboard_2.PNG)
 
-🚀 Insights
+## 🚀 Insights
 
-Sales are concentrated in specific product categories
-High-value customers contribute more revenue
-Certain products generate higher profit
+* Sales are concentrated in specific product categories
+* High-value customers contribute significantly to total revenue
+* Seasonal trends impact sales performance
+* Certain products generate higher profit margins
 
-📌 Conclusion
+## 📌 Conclusion
 
-This dashboard helps in understanding sales trends and supports data-driven decision-making.
+The dashboard provides a comprehensive view of sales and customer behavior, enabling data-driven decision-making for business growth.
